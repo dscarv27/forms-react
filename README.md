@@ -16,10 +16,10 @@ Formulários são umas das melhores formas de interação entre usuários e o so
 
 Os dados coletados através dos formulários podem ser usados para uma variedade de fins, como armazenamento em banco de dados, processamento de transações, personalização de conteúdo, geração de relatórios, entre outros.
 
-<p align="center">
-  <img src="./.github/forms-a-preencher.png">
-  <img src="./.github/forms-preenchido.png">
-</p>
+<span justify-content="space-around">
+  <img src="./.github/forms-a-preencher.png" width="45%" height="100%">
+  <img src="./.github/forms-preenchido.png" width="45%" height="80%">
+</span>
 
 ## Instalação
 

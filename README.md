@@ -16,6 +16,9 @@ Formulários são umas das melhores formas de interação entre usuários e o so
 
 Os dados coletados através dos formulários podem ser usados para uma variedade de fins, como armazenamento em banco de dados, processamento de transações, personalização de conteúdo, geração de relatórios, entre outros.
 
+<img src="./.github/forms-a-preencher.png"> 
+<img src="./.github/forms-preenchido.png">
+
 ## Instalação
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -53,7 +56,7 @@ $ pnpm dev
 <div align="center">
   <h1>Daniel Carvalho</h1>
   <strong>Full Stack Developer</strong>
-    <br/><br/>
+    <br><br>
 
 <a href="https://linkedin.com/in/dscarv27" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>

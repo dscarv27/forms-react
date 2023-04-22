@@ -17,7 +17,7 @@ Formulários são umas das melhores formas de interação entre usuários e o so
 Os dados coletados através dos formulários podem ser usados para uma variedade de fins, como armazenamento em banco de dados, processamento de transações, personalização de conteúdo, geração de relatórios, entre outros.
 
 <p align="center">
-  <img src="./.github/forms-a-preencher.png"> 
+  <img src="./.github/forms-a-preencher.png">
   <img src="./.github/forms-preenchido.png">
 </p>
 
@@ -51,7 +51,7 @@ $ pnpm dev
 <img align="left" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="React-Hooks-Form" height="75" />
 <img align="left" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="Tailwind" height="75" />
 
-<br> <br> <br>
+<br><br><br>
 
 ## Autor
 

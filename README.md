@@ -48,7 +48,7 @@ $ pnpm dev
 <img align="left" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="Typescript" height="75" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite" height="75" />
 <img align="left" src="https://github.com/colinhacks/zod/blob/master/logo.svg" alt="Zod" height="75" />
-<img align="left" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="React-Hooks-Form" height="75" />
+<img align="left" src="./.github/react-hooks-form.png" alt="React-Hooks-Form" height="75" />
 <img align="left" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="Tailwind" height="75" />
 
 <br><br><br>
